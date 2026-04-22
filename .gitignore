@@ -2,7 +2,7 @@ node_modules/
 
 .env/
 
-cf-9-backend/
+
 
 package-lock.json
 package.json
